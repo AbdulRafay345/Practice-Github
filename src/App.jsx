@@ -2,7 +2,7 @@ function App() {
 
   return (
     <>
-    <p>Rafay</p>
+    <h1>Rafay | Abdullah</h1>
     </>
   )
 }
